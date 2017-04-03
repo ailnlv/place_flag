@@ -1,2 +1,2 @@
 # place_flag
-Viva chile
+Script para mantener la bandera chilena en place de reddit.
